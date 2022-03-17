@@ -121,6 +121,17 @@
   padding: 10px 10px;
   line-height: 1.5em; }
 
+::-webkit-input-placeholder {
+  color: #B0B3B6; }
+
+::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #B0B3B6;
+  opacity: 1; }
+
+:-ms-input-placeholder {
+  color: #B0B3B6; }
+
 .iti__flag {
   width: 40px; }
   .iti__flag.iti__be {

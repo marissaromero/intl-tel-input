@@ -271,6 +271,18 @@ $mobilePopupMargin: 30px !default;
   }
 }
 
+::-webkit-input-placeholder {
+    color: #B0B3B6; }
+  
+  ::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #B0B3B6;
+    opacity: 1; }
+  
+  :-ms-input-placeholder {
+    color: #B0B3B6;
+    ; }
+  
 
 
 
